@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24392433492",
+    "project_id": "just-click-6de54",
+    "storage_bucket": "just-click-6de54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24392433492:android:6564078ac46a6d564012c1",
+        "android_client_info": {
+          "package_name": "com.example.just_click"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24392433492-bsf6ofslubn7aef7lctke10r5cakb278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApX0Wj8HGFqgWL3gCDtgsHpGbvD0AaXM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24392433492-bsf6ofslubn7aef7lctke10r5cakb278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
